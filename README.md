@@ -53,6 +53,8 @@ For **feedback**, **questions** and **recommendations**, please use the issue-se
 
 6 References
 ------------
+- Ryu, Y., Chang, K. A., and Lim, H. J. (2005). Use of bubble image velocimetry
+for measurement of plunging wave impinging on structure and associated greenwater. Measurement Science and Technology 16, pages 1945-1953.
 - Bung, D. and Valero, D. (2016a). Image processing techniques for velocity estimation
 in highly aerated flows: bubble image velocimetry vs. optical flow. In: Proceedings of the 4th IAHR Europe Congress, Liege, Belgium, pages 151-157.
 - Bung, D. B. (2011). Non-intrusive measuring of air-water flow properties in selfaerated
