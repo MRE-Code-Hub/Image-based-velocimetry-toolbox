@@ -26,7 +26,7 @@ Important processing paramters of the OF technique are:
 
 3 How to run the code?
 ----------------------
-Copy the source code and the *.avi file into the same folder and run "RunIF.m". Instantaneous velocities are accessible through the Matlab workspace and time-averaged results will be saved to an Excel spreadsheet.
+Copy the source code and the *.avi file into the same folder and run "RunIF.m". Time-averaged results will be exported to a *.m file.
 
 4 Comment on measurement accuracy
 ----------------------------------
