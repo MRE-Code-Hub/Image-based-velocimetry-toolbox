@@ -31,7 +31,7 @@ that there is only little variation in the displacement field within the specifi
 [handle](http://hdl.handle.net/2268/214198)).
 - Sampling frequency: based on performed sensitivity analyses, a sampling rate of > 2,000 fps (or better 5,000 fps) is recommended, being in accordance with Zhang and Chanson (2017, [DOI](https://doi.org/10.1016/j.expthermflusci.2017.09.010)).
 - Sampling duration: for **statistically steady** flows, a minimum sampling duration of > 10 s is appropriate, but higher durations are desirable in terms of more accurate and reproducible results. 
-- Gradient threshold **g<sub>t</sub>**: the indicator function is a simple filter based on the image gradient magnitude and requires a normalised threshold value. Sensitivity analyses should be performed when applying this concept to other flow situations.
+- Gradient threshold **g<sub>t</sub>**: the indicator function is a simple filter based on the image gradient magnitude and requires a threshold value. Sensitivity analyses should be performed when applying this concept to other flow situations.
 
 3 How to run the code?
 ----------------------
