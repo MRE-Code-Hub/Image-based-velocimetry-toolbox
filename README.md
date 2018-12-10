@@ -28,15 +28,7 @@ Important processing paramters of the OF technique are:
 ----------------------
 Copy the source code and the *.avi file into the same folder and run "RunIF.m". Time-averaged results will be exported to a *.m file.
 
-4 Comment on measurement accuracy
-----------------------------------
-Phase-detection probe measurements may overestimate time-averaged velocities and underestimate turbulence intensities, as shown in     Corre and Ishii (2002, [DOI](https://doi.org/10.1016/S0029-5493(02)00130-9)) and Kramer et al. (2019). Possible reasons include:
-- Probe tips are not aligned with flow streamlines.
-- A greater number of bubbles/droplets impact the tips during periods of high velocities. 
-
-This topic is currently being investigated. It is anticipated that the measurement accuracy of a dual-tip probe decreases in two- or three-dimensional flow situations and in regions with high velocity fluctuations. 
-
-5 Contact
+4 Contact
 ----------
 I am happy to receive **feedback**, **questions** and **recommendations** in the issue-section or via Email:
 
