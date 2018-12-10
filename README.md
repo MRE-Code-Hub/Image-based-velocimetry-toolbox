@@ -22,7 +22,7 @@ The code is written in Matlab R2017a. This repository contains source code files
 
 2 Processing parameters
 ------------------------
-Important processing paramters of the OF technique are:
+Important processing paramters of the Farnebäck method are:
 
 3 How to run the code?
 ----------------------
