@@ -1,7 +1,7 @@
-Adaptive window cross-correlation technique (AWCCT)
+Indicator function for Optical Flow (OF) estimations in air-water flows 
 ===================================================
 
-The AWCCT is a novel processing technique for **dual-tip phase-detection probe signals** in high-velocity air-water flows, developed by Matthias Kramer (University of Queensland) and Daniel Valero (FH Aachen). The code is subject to further expansion and currently includes the following features:
+Optical Flow is a 
 
 - Single-threshold filter to detect air- and water-phases.
 - Segmentation of the signal based on a small number of encompassed bubbles/droplets.
@@ -26,7 +26,7 @@ The code is written in Matlab R2017a. This repository contains source code files
 
 2 Processing parameters
 ------------------------
-Important processing paramters of the AWCCT are:
+Important processing paramters of the OF technique are:
 - **N<sub>P</sub>**: number of encompassed particles of the dispersed phase. For example, a window with 
 N<sub>P</sub> = 2 particles contains two water chords and two air chords, compare Fig. 1 in Kramer et al. (2019). A value between N<sub>P</sub>  = 2 and 5 was used for synthetic and real two-phase flow signals. 
 - **R<sub>12,max</sub>**: threshold of the maximum cross-correlation coefficient. A value between R<sub>12,max</sub> = 0.5 to 0.7 is recommended, compare Matos et al. (2002, [DOI](https://doi.org/10.1061/40655(2002)58)) and André et al. (2003, [DOI](https://doi.org/10.1061/(ASCE)0733-9429(2005)131:5(423))). 
@@ -46,7 +46,7 @@ This topic is currently being investigated. It is anticipated that the measureme
 
 5 Contact
 ----------
-We are happy to receive **feedback**, **questions** and **recommendations** in the issue-section or via Email:
+I am happy to receive **feedback**, **questions** and **recommendations** in the issue-section or via Email:
 
 - Matthias Kramer, The University of Queensland, Brisbane, Australia. Email: m.kramer@uq.edu.au, [ORCID](https://orcid.org/0000-0001-5673-2751)
-- Daniel Valero, Aachen University of Applied Sciences, Aachen, Germany. Email: valero@fh-aachen.de, [ORCID](http://orcid.org/0000-0002-7127-7547)
+
