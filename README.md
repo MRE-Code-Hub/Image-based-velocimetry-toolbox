@@ -22,7 +22,7 @@ The code is written in Matlab R2017a. This repository contains source code files
 
 2 Sampling and processing parameters in air-water flows
 -------------------------------------------------------
-Important sampling and processing paramters for OF estimations (Farnebäck method) and filtering in high-velocity air-water flows were evaluated in Kramer and Chanson (2018, [DOI](https://doi.org/10.1016/j.expthermflusci.2018.12.002)). Main findings are summarised as follows:
+Important sampling and processing paramters for OF estimations (Farnebäck method) in high-velocity air-water flows were evaluated in Kramer and Chanson (2018, [DOI](https://doi.org/10.1016/j.expthermflusci.2018.12.002)). Main findings are summarised as follows:
 
 - Neighbourhood size **N**: The pixel-wise solution is integrated over a specified neighbourhood size, assuming
 that there is only little variation in the displacement field within the specified area. It was found that the results converged for neighbourhood sizes of N < 5 px.
