@@ -27,7 +27,7 @@ Important sampling and processing paramters for OF estimations (Farnebäck metho
 - Neighbourhood size **N**: the pixel-wise solution is integrated over a specified neighbourhood size, assuming
 that there is only little variation in the displacement field within the specified area. It was found that the results converged for neighbourhood sizes of N < 5 px.
 - Filter size **F**:  after the computation of displacements, averaging is done using a Gaussian filter with specified size. Sensitivity analyses showed that optimum filter sizes are between 10 px < F < 15 px. 
-- Image pyramid level: te algorithm allows computation of subsampled frames, were the resolution is decreasing with increasing pyramid level. The results were independent of the image pyramid level, which may not hold true for other applications with different sampling parameters (Bung and Valero 2017,
+- Image pyramid level: the algorithm allows computation of subsampled frames, were the resolution is decreasing with increasing pyramid level. The results were independent of the image pyramid level, which may not hold true for other applications with different sampling parameters (Bung and Valero 2017,
 [handle](http://hdl.handle.net/2268/214198)).
 - Sampling frequency: based on performed sensitivity analyses, a sampling rate of > 2,000 fps (or better 5,000 fps) is recommended, being in accordance with Zhang and Chanson (2017, [DOI](https://doi.org/10.1016/j.expthermflusci.2017.09.010)).
 - Sampling duration: for **statistically steady** flows, a minimum sampling duration of > 10 s is appropriate, but higher durations are desirable in terms of more accurate and reproducible results. 
