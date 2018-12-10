@@ -31,7 +31,7 @@ that there is only little variation in the displacement field within the specifi
 [handle](http://hdl.handle.net/2268/214198)).
 
 - Sampling frequency: Based on performed sensitivity analyses, a sampling rate of at least 2,000 (1/s) or better 5,000 (1/s) is recommended, which is in accordance with an earlier study of Zhang and Chanson (2017, [DOI](https://doi.org/10.1016/j.expthermflusci.2017.09.010)).
-- Sampling duration: For statistically steady flows, a minimum sampling duration of 10 s is appropriate, but higher durations are highly
+- Sampling duration: For statistically steady flows, a minimum sampling duration of 10 s is appropriate, but higher durations are
 desirable in terms of more accurate and reproducible results. 
 
 - Gradient threshold
