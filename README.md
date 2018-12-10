@@ -56,10 +56,11 @@ For **feedback**, **questions** and **recommendations**, please use the issue-se
 - Bung, D. and Valero, D. (2016a). Image processing techniques for velocity estimation
 in highly aerated flows: bubble image velocimetry vs. optical flow. In: Proceedings of the 4th IAHR Europe Congress, Liege, Belgium, pages 151-157.
 - Bung, D. B. (2011). Non-intrusive measuring of air-water flow properties in selfaerated
-stepped spillway flow. In: In Proceedings of the 34th IAHR World Congress, Brisbane, Australia, pages 2380-2387.
+stepped spillway flow. In: Proceedings of the 34th IAHR World Congress, Brisbane, Australia, pages 2380-2387.
 - Bung, D. B. and Valero, D. (2016b). Optical flow estimation in aerated flows. Journal of Hydraulic Research, 54, pages 575-580.
 - Bung, D. B. and Valero, D. (2017). FlowCV - an open source toolbox for computer vision applications in turbulent flows. In E-Proceedings of the 37th IAHR World Congress, Kuala Lumpur, Malaysia, 10 pages.
 - Zhang, G. and Chanson, H. (2017). 
 - Kramer, M. and Chanson H. (2018). Optical flow estimations in aerated spillway flows: Filtering and discussion on
-sampling parameters, Experimental and Thermal Fluid Science
+sampling parameters, Experimental and Thermal Fluid Science.
+
 
