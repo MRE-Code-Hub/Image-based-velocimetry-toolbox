@@ -7,7 +7,7 @@ Image-based velocimetry techniques have captured great interest in the laborator
 - Filtering of foreground movement.
 - Filtering of air-water interfaces.
 
-Overall, the uploaded source code allows computation velocity fiedls in air-water flows using the Farnebaeck method. If using the uploaded files for publishing research, please cite the following reference to credit the authors and to direct readers to the original research work:
+Overall, the uploaded source code allows computation velocity fiedls in air-water flows using the Farnebäck method. If using the uploaded files for publishing research, please cite the following reference to credit the authors and to direct readers to the original research work:
 
 M. Kramer and H. Chanson (2019). Optical flow estimations in aerated spillway flows: Filtering and discussion on
 sampling parameters, Experimental and Thermal Fluid Science ([DOI](https://doi.org/10.1007/s00348-018-2650-9))
