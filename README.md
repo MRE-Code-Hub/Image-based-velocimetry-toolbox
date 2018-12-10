@@ -15,7 +15,7 @@ sampling parameters, Experimental and Thermal Fluid Science ([DOI](https://doi.o
 
 1 Contents
 ----------
-The code is written in Matlab R2017a. This repository contains source code files and a represetative spillway data set:
+The code is written in Matlab R2017a. This repository contains source code files and a representative video file:
 - RunIF.m: main code to run the optical flow technique with indicator function.
 - spillway-data: short video sequence of the air-water flow down a stepped spillway, recorded with a phantom v2011 high-speed video camera.
 
