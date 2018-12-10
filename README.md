@@ -17,7 +17,7 @@ sampling parameters, Experimental and Thermal Fluid Science ([DOI](https://doi.o
 ----------
 The code is written in Matlab R2017a. This repository contains source code files and a representative video file:
 - RunIF.m: main code to run the optical flow technique with indicator function.
-- Hydraulic jump data: short video sequence of the air-water flow in a hydraulic jump, recorded with a phantom v2011 high-speed video camera.
+- HydraulicJump.avi: short video sequence of the air-water flow in a hydraulic jump, recorded with a phantom v2011 high-speed video camera.
 
 
 2 Sampling and processing parameters in air-water flows
