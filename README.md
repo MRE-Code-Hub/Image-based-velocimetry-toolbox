@@ -24,8 +24,8 @@ The code is written in Matlab R2017a. This repository contains source code files
 ------------------------
 Important sampling and processing paramters for optical flow estimations (Farnebäck method) and filtering in high-velocity air-water flows are:
 
-- Neighbourhood-size N
-- Filter-size F
+- Neighbourhood size N
+- Filter size F
 - Image pyramid level
 - Sampling frequency
 - Sampling duration
