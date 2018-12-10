@@ -1,7 +1,7 @@
 Indicator function for optical flow estimations in air-water flows
 ==================================================================
 
-Image-based velocimetry techniques have captured great interest in the laboratory study of aerated flows, for example bubble image velocimetry (BIV) or optical flow (OF). Because recorded video sequences in air-water flows are often subject to image noise, a new filtering technique is proposed. This indicator function relies on the image gradient magnitude and works directly on the image plane, including the following benefits: 
+Image-based velocimetry techniques have captured great interest in the laboratory study of air-water flows, for example bubble image velocimetry (BIV) or optical flow (OF). Because recorded video sequences of highly aerated flows are often subject to image noise, a new filtering technique is proposed. This indicator function relies on the image gradient magnitude and works directly on the image plane, including the following benefits: 
 
 - Removal of erroneous data.
 - Filtering of foreground movement.
