@@ -20,9 +20,9 @@ The code is written in Matlab R2017a. This repository contains source code files
 - spillway-data: short video sequence of the air-water flow down a stepped spillway, recorded with a phantom v2011 high-speed video camera.
 
 
-2 Processing parameters
+2 Sampling and processing parameters
 ------------------------
-Important sampling and processing paramters for optical flow estimations (Farnebäck method) in high-velocity air-water flows are:
+Important sampling and processing paramters for optical flow estimations (Farnebäck method) and filtering in high-velocity air-water flows are:
 
 - Neighbourhood-size N
 - Filter-size F
