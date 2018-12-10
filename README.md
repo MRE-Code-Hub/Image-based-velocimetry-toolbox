@@ -10,7 +10,7 @@ Image-based velocimetry techniques have captured great interest in the laborator
 Overall, the uploaded source code allows computation velocity fiedls in air-water flows using the Farnebäck method. If using the uploaded files for publishing research, please cite the following reference to credit the authors and to direct readers to the original research work:
 
 M. Kramer and H. Chanson (2019). Optical flow estimations in aerated spillway flows: Filtering and discussion on
-sampling parameters, Experimental and Thermal Fluid Science ([DOI](https://doi.org/10.1016/j.expthermflusci.2014.10.009))
+sampling parameters, Experimental and Thermal Fluid Science ([DOI](https://doi.org/10.1016/j.expthermflusci.2018.12.002))
 
 
 1 Contents
