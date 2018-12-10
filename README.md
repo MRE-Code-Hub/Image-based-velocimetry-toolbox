@@ -30,7 +30,7 @@ that there is only little variation in the displacement field within the specifi
 - Image pyramid level: The algorithm allows computation of subsampled frames, were the resolution is decreasing with increasing pyramid level. The results were independent of the image pyramid level, which may not hold true for other applications with different sampling parameters (Bung and Valero 2017,
 [handle](http://hdl.handle.net/2268/214198)).
 
-- Sampling frequency: Based on the sensitivity analysis, a sampling rate of at least 2,000 fps or better 5,000 fps is recommended, which is in accordance with an earlier study of Zhang and Chanson (2017, [DOI](https://doi.org/10.1016/j.expthermflusci.2017.09.010)).
+- Sampling frequency: Based on performed sensitivity analyses, a sampling rate of at least 2,000 fps or better 5,000 fps is recommended, which is in accordance with an earlier study of Zhang and Chanson (2017, [DOI](https://doi.org/10.1016/j.expthermflusci.2017.09.010)).
 - Sampling duration
 - Gradient threshold
 
