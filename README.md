@@ -1,7 +1,7 @@
-Indicator function for Optical Flow (OF) estimations 
+Indicator function for Optical Flow estimations 
 ===================================================
 
-Image-based velocimetry techniques have captured great interest in the study of air-water flows. Optical Flow is such an approach and refers refers to the apparent velocity vector field corresponding to the observed displacement of intensity patterns in successive image sequences.
+Image-based velocimetry techniques have captured great interest in the study of air-water flows, for example bubble image velocimetry (BIV) or Optical Flow (OF). In this context, Optical Flow refers refers to the apparent velocity vector field corresponding to the observed displacement of intensity patterns in successive image sequences.
 
 - Single-threshold filter to detect air- and water-phases.
 - Segmentation of the signal based on a small number of encompassed bubbles/droplets.
