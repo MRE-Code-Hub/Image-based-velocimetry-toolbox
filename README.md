@@ -41,7 +41,7 @@ Copy the source code and the *.avi file into the same folder and run "RunIF.m".
 ----------------------------------------
 The majority of image-based velocity measurements in laboratory air-water flows were taken from a sidewall perspective, implying that flow information could only be estimated next to the inside wall (boundary layer). Further, there is no common accepted *post-hoc* methodology for uncertainty analyses of OF techniques in aerated flows. Comparison of phase-detection probe measurements with time-averaged OF velocities indicated accurate OF results for void fractions C < 0.5 (Zhang and Chanson 2017, [DOI](https://doi.org/10.1016/j.expthermflusci.2017.09.010); Kramer and Chanson 2018, [DOI](https://doi.org/10.1016/j.expthermflusci.2018.12.002)). 
 
-The Farnebäck algorithm may be used to detect turbulent motion in air-water flows, as shown for synthetic images in Bung and Valero (2017, [handle](http://hdl.handle.net/2268/214198)). However, a thorough validation of turbulent fluctuations still needs to be established for real air-water flow sequences, especially as they are subject to image noise. At the moment, little is known about the performance of OF techniques in unsteady air-water flows. 
+The Farnebäck algorithm may be used to detect turbulent motion in air-water flows, as shown for synthetic images in Bung and Valero (2017, [handle](http://hdl.handle.net/2268/214198)). However, a thorough validation of turbulent fluctuations still needs to be established for real air-water flow sequences, especially as they are adversely affected by image noise. At the moment, little is known about the performance of OF techniques in unsteady air-water flows. 
 
 
 5 Contact
