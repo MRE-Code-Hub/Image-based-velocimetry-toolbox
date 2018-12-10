@@ -25,8 +25,8 @@ The code is written in Matlab R2017a. This repository contains source code files
 Important sampling and processing paramters for optical flow estimations (Farnebäck method) and filtering in high-velocity air-water flows are:
 
 - Neighbourhood size N: The pixel-wise solution is integrated over a specified neighbourhood size, assuming
-that there is only little variation in the displacement field within the specified area. It was found that the results converged for neighbourhood sizes of N < 5 px.
-- Filter size F:  After the computation of displacements, averaging is done using a Gaussian filter with specified size. Sensitivity analyses showed that optimum filter sizes are between 10 px < F < 15 px. 
+that there is only little variation in the displacement field within the specified area. It was found that the results converged for neighbourhood sizes of N < 5 px (Kramer and Chanson 2018).
+- Filter size F:  After the computation of displacements, averaging is done using a Gaussian filter with specified size. Sensitivity analyses showed that optimum filter sizes are between 10 px < F < 15 px (Kramer and Chanson 2018). 
 - Image pyramid level
 - Sampling frequency
 - Sampling duration
