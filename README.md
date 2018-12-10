@@ -24,6 +24,13 @@ The code is written in Matlab R2017a. This repository contains source code files
 ------------------------
 Important processing paramters of the indicator function and the Farnebäck method are:
 
+- Neighbourhood-size N
+- Filter-size F
+- Image pyramid level
+- Sampling frequency
+- Sampling duration
+- Gradient threshold
+
 3 How to run the code?
 ----------------------
 Copy the source code and the *.avi file into the same folder and run "RunIF.m".
