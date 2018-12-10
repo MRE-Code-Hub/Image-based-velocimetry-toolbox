@@ -22,7 +22,7 @@ The code is written in Matlab R2017a. This repository contains source code files
 
 2 Processing parameters
 ------------------------
-Important processing paramters of the indicator function and the Farnebäck method are:
+Important sampling and processing paramters for optical flow estimations (Farnebäck method) in high-velocity air-water flows are:
 
 - Neighbourhood-size N
 - Filter-size F
