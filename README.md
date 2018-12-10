@@ -40,8 +40,9 @@ desirable in terms of more accurate and reproducible results.
 ----------------------
 Copy the source code and the *.avi file into the same folder and run "RunIF.m".
 
-4 Comment on measurement accuracy
-----------------------------------
+4 Shortcomings and measurement accuracy
+----------------------------------------
+
 
 There is currently no common accepted post-hoc methodology for uncertainty analyses of optical flow techniques in aerated flows. Comparison of time-averaged optical flow velocities with phase-detection probe measurements indicate that the optical flow method gives accurate results for void fractions C < 0.5 (Zhang and Chanson 2017, [DOI](https://doi.org/10.1016/j.expthermflusci.2017.09.010), Kramer and Chanson 2018, [DOI](https://doi.org/10.1016/j.expthermflusci.2018.12.002)). 
 
