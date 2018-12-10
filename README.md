@@ -55,7 +55,6 @@ For **feedback**, **questions** and **recommendations**, please use the issue-se
 ------------
 - Ryu, Y., Chang, K. A., and Lim, H. J. (2005). Use of bubble image velocimetry
 for measurement of plunging wave impinging on structure and associated greenwater. Measurement Science and Technology 16, pages 1945-1953.
-
 - Bung, D. B. (2011). Non-intrusive measuring of air-water flow properties in selfaerated
 stepped spillway flow. In: Proceedings of the 34th IAHR World Congress, Brisbane, Australia, pages 2380-2387.
 - Leandro, J., Bung, D. B., and Carvalho, R. (2014). Measuring void fraction and velocity fields of a stepped spillway for skimming 
