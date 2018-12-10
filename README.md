@@ -9,7 +9,7 @@ Image-based velocimetry techniques have captured great interest in the laborator
 
 The uploaded source code allows computation of filtered velocity fields in air-water flows with the Farnebäck method ([handle](https://www.ida.liu.se/ext/WITAS-ev/Computer_Vision_Technologies/PaperInfo/farneback02.html)), as implemented in Matlab R2017a. If using the uploaded files for publishing research, please cite the following reference to credit the authors and to direct readers to the original research work:
 
-M. Kramer and H. Chanson (2019). Optical flow estimations in aerated spillway flows: Filtering and discussion on
+M. Kramer and H. Chanson (2018). Optical flow estimations in aerated spillway flows: Filtering and discussion on
 sampling parameters, Experimental and Thermal Fluid Science ([DOI](https://doi.org/10.1016/j.expthermflusci.2018.12.002))
 
 
@@ -22,7 +22,7 @@ The code is written in Matlab R2017a. This repository contains source code files
 
 2 Sampling and processing parameters in air-water flows
 -------------------------------------------------------
-Important sampling and processing paramters for optical flow estimations (Farnebäck method) and filtering in high-velocity air-water flows were evaluated in Kramer and Chanson (2018). Main findings are summarised as follows:
+Important sampling and processing paramters for optical flow estimations (Farnebäck method) and filtering in high-velocity air-water flows were evaluated in Kramer and Chanson (2018, [DOI](https://doi.org/10.1016/j.expthermflusci.2018.12.002))). Main findings are summarised as follows:
 
 - Neighbourhood size N: The pixel-wise solution is integrated over a specified neighbourhood size, assuming
 that there is only little variation in the displacement field within the specified area. It was found that the results converged for neighbourhood sizes of N < 5 px.
