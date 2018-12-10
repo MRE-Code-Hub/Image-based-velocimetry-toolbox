@@ -40,7 +40,13 @@ desirable in terms of more accurate and reproducible results.
 ----------------------
 Copy the source code and the *.avi file into the same folder and run "RunIF.m".
 
-4 Contact
+4 Comment on measurement accuracy
+----------------------------------
+
+There is currently no common accepted post-hoc methodology for the uncertainty analysis of optical flow techniques in aerated flows. It is known that the Farnebaeck algorithm is capable to detect the turbulent movement of synthetic particle images fairly well, compare Bung and Valero (2017, [handle](http://hdl.handle.net/2268/214198)). In comparison to synthetic images, the real air-water flow sequences are subject to image noise. 
+
+
+5 Contact
 ----------
 For **feedback**, **questions** and **recommendations**, please use the issue-section or the following Email:
 
