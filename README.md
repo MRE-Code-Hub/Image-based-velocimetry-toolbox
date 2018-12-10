@@ -3,10 +3,9 @@ Indicator function for optical flow estimations
 
 Image-based velocimetry techniques have captured great interest in the study of air-water flows, for example bubble image velocimetry (BIV) or optical flow (OF). As recorded video sequences are often subject to image noise, a new filtering technique is proposed. This indicator function relies on the image gradient magnitude and works directly on the image plane, including the following benefits: 
 
-- Single-threshold filter to detect air- and water-phases.
-- Segmentation of the signal based on a small number of encompassed bubbles/droplets.
-- Estimation of pseudo-instantaneous interfacial velocities and turbulence intensities.
-- Reliable velocity estimates through implementation of filtering criteria.
+- Removal of erroneous data.
+- Filtering of foreground movement.
+- Filtering of air-water interfaces.
 
 Overall, the uploaded source code allows computation of basic two-phase flow parameters, including void fraction (*C*), bubble/droplet count rate (*F*), chord times (*ch*), pseudo-instantaneous interfacial velocities (*u*) and turbulence intensities (*Tu*). If using the AWCCT for publishing research, please cite the following reference to credit the authors and to direct readers to the original research work:
 
