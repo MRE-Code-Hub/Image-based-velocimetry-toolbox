@@ -26,7 +26,7 @@ Important processing paramters of the Farnebäck method are:
 
 3 How to run the code?
 ----------------------
-Copy the source code and the *.avi file into the same folder and run "RunIF.m". Time-averaged results will be exported to a *.m file.
+Copy the source code and the *.avi file into the same folder and run "RunIF.m".
 
 4 Contact
 ----------
