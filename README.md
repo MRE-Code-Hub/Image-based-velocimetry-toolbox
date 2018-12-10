@@ -24,18 +24,15 @@ The code is written in Matlab R2017a. This repository contains source code files
 -------------------------------------------------------
 Important sampling and processing paramters for OF estimations (Farnebäck method) in high-velocity air-water flows were evaluated in Kramer and Chanson (2018, [DOI](https://doi.org/10.1016/j.expthermflusci.2018.12.002)). Main findings are summarised as follows:
 
-- Neighbourhood size **N**: The pixel-wise solution is integrated over a specified neighbourhood size, assuming
+- Neighbourhood size **N**: the pixel-wise solution is integrated over a specified neighbourhood size, assuming
 that there is only little variation in the displacement field within the specified area. It was found that the results converged for neighbourhood sizes of N < 5 px.
-- Filter size **F**:  After the computation of displacements, averaging is done using a Gaussian filter with specified size. Sensitivity analyses showed that optimum filter sizes are between 10 px < F < 15 px. 
-- Image pyramid level: The algorithm allows computation of subsampled frames, were the resolution is decreasing with increasing pyramid level. The results were independent of the image pyramid level, which may not hold true for other applications with different sampling parameters (Bung and Valero 2017,
+- Filter size **F**:  after the computation of displacements, averaging is done using a Gaussian filter with specified size. Sensitivity analyses showed that optimum filter sizes are between 10 px < F < 15 px. 
+- Image pyramid level: te algorithm allows computation of subsampled frames, were the resolution is decreasing with increasing pyramid level. The results were independent of the image pyramid level, which may not hold true for other applications with different sampling parameters (Bung and Valero 2017,
 [handle](http://hdl.handle.net/2268/214198)).
-
-- Sampling frequency: Based on performed sensitivity analyses, a sampling rate of > 2,000 fps (or better 5,000 fps) is recommended, being in accordance with Zhang and Chanson (2017, [DOI](https://doi.org/10.1016/j.expthermflusci.2017.09.010)).
-
-- Sampling duration: For **statistically steady** flows, a minimum sampling duration of > 10 s is appropriate, but higher durations are
-desirable in terms of more accurate and reproducible results. 
-
-- Gradient threshold:
+- Sampling frequency: based on performed sensitivity analyses, a sampling rate of > 2,000 fps (or better 5,000 fps) is recommended, being in accordance with Zhang and Chanson (2017, [DOI](https://doi.org/10.1016/j.expthermflusci.2017.09.010)).
+- Sampling duration: for **statistically steady** flows, a minimum sampling duration of > 10 s is appropriate, but higher durations are desirable in terms of more accurate and reproducible results. 
+- Gradient threshold: the indicator function is a simple filter based on the image gradient magnitude and a normalised threshold value **g<sub>st</sub>**. A threshold value g<sub>st</sub> = 1.1 was chosen to achieve a significantly improved description of the flow and to provide minimum loss of information. The selected value is not unique and represented a conservative
+choice. A similar procedure should be performed when applying this concept to other flow situations.
 
 3 How to run the code?
 ----------------------
