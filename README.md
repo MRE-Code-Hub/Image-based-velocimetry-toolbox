@@ -20,13 +20,13 @@ The code is written in Matlab R2017a. This repository contains source code files
 - spillway-data: short video sequence of the air-water flow down a stepped spillway, recorded with a phantom v2011 high-speed video camera.
 
 
-2 Sampling and processing parameters
-------------------------
+2 Sampling and processing parameters in air-water flows
+-------------------------------------------------------
 Important sampling and processing paramters for optical flow estimations (Farnebäck method) and filtering in high-velocity air-water flows are:
 
 - Neighbourhood size N: The pixel-wise solution is integrated over a specified neighbourhood size, assuming
 that there is only little variation in the displacement field within the specified area.
-- Filter size F
+- Filter size F:  After the computation of displacements, the averaging is done using a Gaussian filter with specified size. Sensitivity analyses showed that optimum filter sizes are between 10 px < F < 15 px. 
 - Image pyramid level
 - Sampling frequency
 - Sampling duration
