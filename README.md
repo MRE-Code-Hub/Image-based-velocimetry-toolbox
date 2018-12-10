@@ -40,7 +40,7 @@ Copy the source code and the *.avi file into the same folder and run "RunIF.m".
 
 4 Contact
 ----------
-I am happy to receive **feedback**, **questions** and **recommendations** in the issue-section or via Email:
+For **feedback**, **questions** and **recommendations**, please use the issue-section or the following Email:
 
 - Matthias Kramer, The University of Queensland, Brisbane, Australia. Email: m.kramer@uq.edu.au, [ORCID](https://orcid.org/0000-0001-5673-2751)
 
